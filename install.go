@@ -88,6 +88,6 @@ func Output(cmd *exec.Cmd) {
 }
 
 func main(){
-	install("Python")
+	install("Java")
 }
 
